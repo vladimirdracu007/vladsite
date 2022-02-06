@@ -1,0 +1,24 @@
+.parent
+{
+    background-color:red;
+    height: 200px;
+    display: flex;
+    justify-content: center  ;
+    align-items:  center ;
+    
+    
+    
+}
+.child
+{
+    
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 5px;
+    
+}
+#child1
+{
+    background-color: blue;
+}
